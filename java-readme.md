@@ -1,3 +1,5 @@
+# git basic commands
+
 echo "# java-interview-prep" >> README.md
 git init
 git add README.md
